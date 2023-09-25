@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Dum Dum Blog"
+theme = 'ananke'
+
+[menu]
+[[menu.main]]
+    identifier='posts'
+    name = 'Posts'
+    posts = '/content/posts/'
