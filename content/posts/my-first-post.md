@@ -1,7 +1,7 @@
 ---
 title: "Day 1 of ?"
 date: 2023-09-25T13:55:22-07:00
-draft: true
+draft: false
 ---
 
 ## Introduction
