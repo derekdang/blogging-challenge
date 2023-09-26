@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Dum Dum Blog"
-theme = 'ananke'
+theme = 'xmin'
 
 [menu]
 [[menu.main]]
