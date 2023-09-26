@@ -13,7 +13,7 @@ It is frustrating to deal with because in my head I know part of it is just sitt
 
 > Don't let perfection be the enemy of progress.
 
-I tell them that because it is easy to fret over having perfect form before increasing the weights or finding the right program. While I am not advocating increasing the weights until your form breaks down, keep striving to make progress in your lifts. Do not let reasons such as "my form is not textbook perfect" or selecting the right program prevent your gains.
+I tell them that because it is easy to fret over having perfect form before increasing the weights or finding the right program. While I am not advocating increasing the weights until your form breaks down, keep striving to make progress in your lifts. Do not let reasons such as "my form is not textbook perfect" or selecting the right program prevent you from obtaining gains.
 
 For me, some of the stuff I will write is so that I can overcome my own shortcomings and preach to myself. Do as I say and not as I do, right?
 
