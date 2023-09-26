@@ -13,7 +13,7 @@ It is frustrating to deal with because in my head I know part of it is just sitt
 
 > Don't let perfection be the enemy of progress.
 
-I tell them that because it is easy to fret over having perfect form or the right program and to use those as excuses to not make progress. For me, some of the stuff I will write is so that I can overcome my own shortcomings and preach to myself. Do as I say and not as I do, right?
+I tell them that because it is easy to fret over having perfect form or finding the right program and use those as excuses to not make progress. For me, some of the stuff I will write is so that I can overcome my own shortcomings and preach to myself. Do as I say and not as I do, right?
 
 Even as I was trying to start blogging I was thinking things like...
 
@@ -23,7 +23,7 @@ Even as I was trying to start blogging I was thinking things like...
 "Who am I writing to?"\
 "What type of writing do I want to do?"
 
-Sometimes my analysis paralysis kills off my motivation before I start whatever I am endeavoring to do. I do not think these are bad ideas to have in mind but I do not want that to stop me from writing. I am still figuring out the answer to some of those questions but at some point you just need to start. 
+Sometimes my analysis paralysis kills off my motivation before I start whatever I am endeavoring to do. I do not think these are bad ideas to have in mind but I do not want that to stop me from writing. I am still figuring out the answer to some of those questions but at some point you just need to take the first step. 
 
 There is an abundance of resources out there on blogging, what to write about, how to capture an audience and all that jazz. The content and structure of the blog is still up in the air but hopefully I will find answers to some of those questions as I continue to write.
 
