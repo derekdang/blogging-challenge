@@ -1,0 +1,7 @@
+theme: xmin
+menu:
+  main:
+    - name: Home
+      url: ""
+    - name: Posts
+      url: "posts/"
