@@ -25,9 +25,9 @@ Even as I was trying to start blogging I was thinking things like...
 "Who am I writing to?"\
 "What type of writing do I want to do?"
 
-Sometimes my analysis paralysis kills off my motivation before I start whatever I am endeavoring to do. I do not think these are bad ideas to have in mind but I do not want that to stop me from writing. I am still figuring out the answer to some of those questions but at some point you just need to take the first step. 
+There is an abundance of resources out there on blogging, what to write about, how to capture an audience and all that jazz. I am still figuring out the answer to some of those questions above but at some point you just need to take the first step. 
 
-There is an abundance of resources out there on blogging, what to write about, how to capture an audience and all that jazz. The content and structure of the blog is still up in the air but hopefully I will find answers to some of those questions as I continue to write.
+Sometimes my analysis paralysis kills off my motivation before I start whatever I am endeavoring to do. I do not think these are bad ideas to have in mind but I did not want that to stop me from writing. 
 
 So I will say this again and mainly for myself:
 > Don't let perfection be the enemy of progress.
