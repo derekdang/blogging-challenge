@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## Analysis Paralysis
-Here goes day two. I wrote down some ideas of stuff I wanted to talk about. One thing that comes to mind especially as I start trying to write consistently is analysis paralysis. There has been a fair amount of articles written on this topic so I will be exploring my perspective. 
+Here goes day two. I wrote down some ideas of stuff I wanted to talk about. One thing that comes to mind especially as I start trying to write consistently is analysis paralysis. There has been a fair amount of articles written on this topic already so instead I will be exploring my perspective and how I need to approach it. 
 
 I believe this is a common struggle for me in different facets of my life. Whether it be interviewing, trying to start something new, responding to correspondence... the list goes on.
 
