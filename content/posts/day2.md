@@ -21,7 +21,7 @@ Even as I was trying to start blogging I was thinking things like...
 
 "What is the best tool to use?"\
 "What will be the most future proof?"\
-"What are my goals with writing?"
+"What are my goals with writing?"\
 "Who am I writing to?"\
 "What type of writing do I want to do?"
 
