@@ -15,6 +15,7 @@ Here is how I would rank areas of my life with regards to discipline:
     * Getting out of bed / waking up regularly
     * Sleeping regularly
 * Social Media Consumption 
+* Inbox 0
 
 ### Poor Discipline
 * Devotional time
