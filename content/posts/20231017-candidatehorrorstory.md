@@ -1,7 +1,7 @@
 ---
 title: "Candidate Horror Story"
 date: 2023-10-17
-draft: true
+draft: false
 ---
 
 I am coming up on nearly one year being laid off and almost nine months of on and off job searching. I wanted to share some horror stories from the candidate side of things. Hopefully this provides either some laughs or entertainment 😂.
