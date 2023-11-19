@@ -10,8 +10,9 @@ It has been a long journey to get to the point where I am. I shared with friends
 
 It is a liberating feeling to not have to check LinkedIn jobs daily and as my friend put it "blasting applications into the void". I initially was going to keep track of "metrics" by the number of emails in my Updates section of my inbox but that became too discouraging as it grew into the 1000+ range.
 
-Reviewing my calendar and some of the information tracked in emails
-* 7 virtual onsites
+Reviewing my calendar and some of the information tracked in emails:
+* 7 or 8 virtual onsites
+* 2 roles where virtual onsites were canceled / positions were eliminated
 * Dozens of tech screens
 * Dozens of recruiter calls
 * Ballpark of 1000 applications
